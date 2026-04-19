@@ -1,5 +1,6 @@
 # Go build outputs
 nemo-transcribe
+!cmd/*
 *.exe
 
 # ONNX model files (large, exported locally)
