@@ -1,4 +1,4 @@
-module github.com/danielkapit/nemo-go
+module github.com/dkaps125/nemo-go
 
 go 1.24.0
 

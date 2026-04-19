@@ -1,8 +1,8 @@
 package parakeet
 
 import (
-	"github.com/danielkapit/nemo-go/internal/mathutil"
-	"github.com/danielkapit/nemo-go/tokenizer"
+	"github.com/dkaps125/nemo-go/internal/mathutil"
+	"github.com/dkaps125/nemo-go/tokenizer"
 )
 
 // greedyCTCDecode decodes a CTC logit matrix using greedy (best-path) decoding.

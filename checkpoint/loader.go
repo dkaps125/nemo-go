@@ -9,8 +9,8 @@ import (
 
 	ort "github.com/yalue/onnxruntime_go"
 
-	"github.com/danielkapit/nemo-go/audio"
-	"github.com/danielkapit/nemo-go/tokenizer"
+	"github.com/dkaps125/nemo-go/audio"
+	"github.com/dkaps125/nemo-go/tokenizer"
 )
 
 // ORTLibraryPath sets the path to the ONNX Runtime shared library.

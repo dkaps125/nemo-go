@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/danielkapit/nemo-go/tokenizer"
+	"github.com/dkaps125/nemo-go/tokenizer"
 )
 
 // TestAggregateTokenizerSpecialTokens verifies that the AggregateTokenizer

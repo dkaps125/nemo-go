@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/danielkapit/nemo-go/internal/mathutil"
-	"github.com/danielkapit/nemo-go/onnx"
+	"github.com/dkaps125/nemo-go/internal/mathutil"
+	"github.com/dkaps125/nemo-go/onnx"
 )
 
 const (

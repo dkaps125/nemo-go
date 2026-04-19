@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/danielkapit/nemo-go/internal/mathutil"
-	"github.com/danielkapit/nemo-go/onnx"
-	"github.com/danielkapit/nemo-go/tokenizer"
+	"github.com/dkaps125/nemo-go/internal/mathutil"
+	"github.com/dkaps125/nemo-go/onnx"
+	"github.com/dkaps125/nemo-go/tokenizer"
 )
 
 // ONNX tensor names for the Canary decoder.

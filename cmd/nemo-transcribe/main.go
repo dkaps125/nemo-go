@@ -23,12 +23,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/danielkapit/nemo-go/checkpoint"
-	"github.com/danielkapit/nemo-go/model"
-	"github.com/danielkapit/nemo-go/model/canary"
-	"github.com/danielkapit/nemo-go/model/parakeet"
-	modelrnnt "github.com/danielkapit/nemo-go/model/rnnt"
-	"github.com/danielkapit/nemo-go/onnx"
+	"github.com/dkaps125/nemo-go/checkpoint"
+	"github.com/dkaps125/nemo-go/model"
+	"github.com/dkaps125/nemo-go/model/canary"
+	"github.com/dkaps125/nemo-go/model/parakeet"
+	modelrnnt "github.com/dkaps125/nemo-go/model/rnnt"
+	"github.com/dkaps125/nemo-go/onnx"
 )
 
 func main() {

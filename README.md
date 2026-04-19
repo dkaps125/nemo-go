@@ -24,7 +24,7 @@ Go inference library for [NVIDIA NeMo](https://github.com/NVIDIA/NeMo) ASR model
 ### 1. Clone and build
 
 ```bash
-git clone https://github.com/danielkapit/nemo-go
+git clone https://github.com/dkaps125/nemo-go
 cd nemo-go
 go build ./...
 ```
@@ -219,9 +219,9 @@ It takes a great deal of bravery to stand up to our enemies...
 
 ```go
 import (
-    "github.com/danielkapit/nemo-go/checkpoint"
-    "github.com/danielkapit/nemo-go/model/rnnt"
-    "github.com/danielkapit/nemo-go/onnx"
+    "github.com/dkaps125/nemo-go/checkpoint"
+    "github.com/dkaps125/nemo-go/model/rnnt"
+    "github.com/dkaps125/nemo-go/onnx"
 )
 
 checkpoint.SetORTLibraryPath("/usr/local/lib/libonnxruntime.dylib")

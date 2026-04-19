@@ -12,11 +12,11 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/danielkapit/nemo-go/audio"
-	"github.com/danielkapit/nemo-go/checkpoint"
-	"github.com/danielkapit/nemo-go/model"
-	"github.com/danielkapit/nemo-go/onnx"
-	"github.com/danielkapit/nemo-go/tokenizer"
+	"github.com/dkaps125/nemo-go/audio"
+	"github.com/dkaps125/nemo-go/checkpoint"
+	"github.com/dkaps125/nemo-go/model"
+	"github.com/dkaps125/nemo-go/onnx"
+	"github.com/dkaps125/nemo-go/tokenizer"
 )
 
 // ONNX input/output names for NeMo Parakeet CTC export.
